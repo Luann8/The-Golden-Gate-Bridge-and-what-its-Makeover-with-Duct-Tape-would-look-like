@@ -6,4 +6,5 @@ The tape that surrounds the bridge provides a unique and unusual vantage point w
 
 The transformation of complex concepts into accessible representations through data science and graphical visualization is presented in this challenging and fictional exercise, aimed at the more technical. It serves as a reminder that even in the most imposing structures, creative thinking can provide a new and unique perspective.
 
-![Uploading Captura de tela 2023-11-18 203318.png…]()
+[![Uploading Captura de tela 2023-11-18 203318.png…]()
+](https://github.com/Luann8/The-Golden-Gate-Bridge-and-what-its-Makeover-with-Duct-Tape-would-look-like/blob/main/Captura%20de%20tela%202023-11-18%20203318.png)https://github.com/Luann8/The-Golden-Gate-Bridge-and-what-its-Makeover-with-Duct-Tape-would-look-like/blob/main/Captura%20de%20tela%202023-11-18%20203318.png
